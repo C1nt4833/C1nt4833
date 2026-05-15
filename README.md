@@ -77,6 +77,5 @@ HTML     █████░░░░░░░░░░  Familiar
 *"Without data, you're just another person with an opinion."*
 — W. Edwards Deming
 
-![Profile views](https://komarev.com/ghpvc/?username=C1nt4833&color=2F80ED&style=flat-square&label=Profile+Views)
 
 </div>
