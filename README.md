@@ -1,12 +1,6 @@
-## Hi there 👋
-
 <div align="center">
 
-```
-╔══════════════════════════════════════════════╗
-║   Turning raw data into actionable insight   ║
-╚══════════════════════════════════════════════╝
-```
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&width=500&lines=Turning+raw+data+into+actionable+insight)](https://git.io/typing-svg)
 
 # Cinta Wardana
 
@@ -22,14 +16,16 @@
 
 ### About Me
 
-I'm a Data Science practitioner focused on transforming messy, real-world data into clear, decision-ready insights. My work spans the full pipeline — from data wrangling and exploratory analysis to building machine learning models and deploying AI-powered tools.
+Informatics Engineering student at **Halu Oleo University** (GPA: 3.65/4.00) and active participant in **DBS Foundation Coding Camp 2026 (Data Science)**. I focus on transforming raw, messy data into clear, decision-ready insights — spanning the full pipeline from data cleaning and EDA to machine learning and AI-powered tools.
 
-I'm particularly interested in how **AI agents** and **NLP** can solve practical problems, whether that's automating workflows, extracting signal from text, or personalizing recommendations.
+I believe data can be a powerful tool for change, even from beyond the center of the tech world.
 
-- 🔭 Currently building: AI Agent systems and intelligent recommendation engines
-- 🌱 Learning: LLM integration, MLOps, and advanced NLP techniques
-- 🎯 Goal: Contribute to data-driven products that create real-world impact
-- 📍 Based in South Sulawesi, Indonesia
+- 🔭 Currently building: AI Agent systems & intelligent recommendation engines
+- 📚 Bootcamp: DBS Foundation Coding Camp 2026 — Data Science track
+- 🌐 Community: Google Developer Group On Campus Widyatama (AI & Data)
+- 🌱 Learning: Data Analytics, Machine Learning, LLM integration, MLOps
+- 🎯 Goal: Grow into a Data Analyst/Scientist who drives data-driven decisions
+- 📍 Kendari, Sulawesi Tenggara, Indonesia
 
 ---
 
@@ -43,7 +39,7 @@ PHP      █████░░░░░░░░░░  Familiar
 HTML     █████░░░░░░░░░░  Familiar
 ```
 
-**ML & Analysis**
+**Data Analysis & ML**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -56,6 +52,7 @@ HTML     █████░░░░░░░░░░  Familiar
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
 ---
 
@@ -72,10 +69,32 @@ HTML     █████░░░░░░░░░░  Familiar
 
 ---
 
+### Experience & Education
+
+**🎓 Halu Oleo University** — Informatics Engineering *(2024 – present)*
+GPA: 3.65 / 4.00
+
+**💼 DBS Foundation Coding Camp 2026** — Data Scientist Cohort *(Jan 2026 – present)*
+Intensive bootcamp: data cleaning, EDA, Python, SQL, visualization, ML, real-world portfolio projects
+
+**🌐 GDG On Campus Widyatama** — Member *(Nov 2025 – present)*
+Workshops & learning paths focused on AI and Data Analysis
+
+---
+
+### Certifications
+
+![](https://img.shields.io/badge/Dicoding-Learning%20Data%20Analysis%20Fundamentals-2F80ED?style=flat-square&logo=databricks&logoColor=white)
+![](https://img.shields.io/badge/Dicoding-Learning%20Data%20Visualization%20Basics-2F80ED?style=flat-square&logo=databricks&logoColor=white)
+![](https://img.shields.io/badge/Coursera-Supervised%20ML%3A%20Regression%20%26%20Classification-0056D2?style=flat-square&logo=coursera&logoColor=white)
+![](https://img.shields.io/badge/Dicoding-Learning%20AI%20Fundamentals-2F80ED?style=flat-square&logo=databricks&logoColor=white)
+![](https://img.shields.io/badge/Dicoding-Machine%20Learning%20for%20Beginners-2F80ED?style=flat-square&logo=databricks&logoColor=white)
+
+---
+
 <div align="center">
 
 *"Without data, you're just another person with an opinion."*
 — W. Edwards Deming
-
 
 </div>
