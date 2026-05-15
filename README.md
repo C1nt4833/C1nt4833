@@ -82,16 +82,6 @@ Workshops & learning paths focused on AI and Data Analysis
 
 ---
 
-### Certifications
-
-![](https://img.shields.io/badge/Dicoding-Learning%20Data%20Analysis%20Fundamentals-2F80ED?style=flat-square&logo=databricks&logoColor=white)
-![](https://img.shields.io/badge/Dicoding-Learning%20Data%20Visualization%20Basics-2F80ED?style=flat-square&logo=databricks&logoColor=white)
-![](https://img.shields.io/badge/Coursera-Supervised%20ML%3A%20Regression%20%26%20Classification-0056D2?style=flat-square&logo=coursera&logoColor=white)
-![](https://img.shields.io/badge/Dicoding-Learning%20AI%20Fundamentals-2F80ED?style=flat-square&logo=databricks&logoColor=white)
-![](https://img.shields.io/badge/Dicoding-Machine%20Learning%20for%20Beginners-2F80ED?style=flat-square&logo=databricks&logoColor=white)
-
----
-
 <div align="center">
 
 *"Without data, you're just another person with an opinion."*
