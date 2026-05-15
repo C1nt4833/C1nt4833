@@ -72,18 +72,6 @@ HTML     █████░░░░░░░░░░  Familiar
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-![Cinta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=C1nt4833&show_icons=true&theme=default&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=333333&bg_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=C1nt4833&layout=compact&theme=default&hide_border=true&title_color=2F80ED&text_color=333333&bg_color=ffffff)
-
-</div>
-
----
-
 <div align="center">
 
 *"Without data, you're just another person with an opinion."*
